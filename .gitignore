@@ -1,0 +1,7 @@
+# compiler / harness outputs
+*.o
+test/
+build/atpg.map
+
+# original hand-off package (contents are in the repo)
+appletree.zip
